@@ -25,3 +25,15 @@
   <dd>REVOKE</dd>
   
 </dl>
+
+<h1 align="left"> <u> SQL Data Types </u> </h1>
+<p>There are many types of SQL data type :- </p>
+<ul>
+  <li>int</li>
+  <li>float</li>
+  <li>bool</li>
+  <li>char</li>
+  <li>varchar</li>
+  <li>date</li>
+  <li>datetime</li>
+</ul>
