@@ -45,3 +45,6 @@
 <h1 align="left"> <u> Foreign Key </u> </h1>
 <p>Foreign key is a column which is used to link two or more columns together. A table can have any number of foreign key and the value of foreign key can be duplicate or NULL .</p>
 
+<h1 align="left"> <u> SQL CRUD Operation </u> </h1>
+<h3 align="left"> Create Database </h1>
+<h4 align="center"> CREATE DATABASE database_name  (CREATE DATABASE testDB) </h1>
