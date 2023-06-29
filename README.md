@@ -40,3 +40,8 @@
 
 <h1 align="left"> <u> Primary Key </u> </h1>
 <p>Primary key is a unique column in table. A table can have only one primary key, which should be unique but the value should be NOT NULL </p>
+
+
+<h1 align="left"> <u> Foreign Key </u> </h1>
+<p>Foreign key is a column which is used to link two or more columns together. </p>
+
