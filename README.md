@@ -4,4 +4,24 @@
 <p>DataBase is a system to store the data and organise the data.</p>
 
 <h1 align="left"> <u> SQL </u> </h1>
-<p>SQL is a relational database, which means the structure of the database is predefied. We can not modify the database after creating. </p>
+<p>SQL is a relational database, which means the structure of the database is predefined. We can not modify the database after creating. </p>
+
+<h1 align="left"> <u> SQL Commands </u> </h1>
+<p>There are three types of SQL commands :- </p>
+<dl>
+  <dt>DDL (Data Definition Language)</dt>
+  <dd>CREATE</dd>
+  <dd>ALTER</dd>
+  <dd>DROP</dd>
+
+  <dt>DML (Data Manipulation Language)</dt>
+  <dd>SELECT</dd>
+  <dd>INSERT</dd>
+  <dd>UPDATE</dd>
+  <dd>DELETE</dd>
+
+  <dt>DCL (Data Control Language)</dt>
+  <dd>GRANT</dd>
+  <dd>REVOKE</dd>
+  
+</dl>
