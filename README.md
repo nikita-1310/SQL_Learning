@@ -37,3 +37,6 @@
   <li>date</li>
   <li>datetime</li>
 </ul>
+
+<h1 align="left"> <u> Primary Key </u> </h1>
+<p>Primary key is a unique column in table. A table can have only one primary key, which should be unique but the value should be NOT NULL </p>
